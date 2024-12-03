@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.30)
-project(bilista1)
+cmake_minimum_required(VERSION 3.29)
+project(bilista)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(bilista1 main.cpp)
+add_executable(bilista main.cpp)
